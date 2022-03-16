@@ -1,0 +1,9 @@
+int volume(int a)
+{
+    return a * a * a;
+}
+
+int volume(int l, int w, int h)
+{
+    return l * w * h;
+}
